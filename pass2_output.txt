@@ -1,0 +1,6 @@
+START
+line 1
+A 1,d1
+L 2,d2
+line 2
+END

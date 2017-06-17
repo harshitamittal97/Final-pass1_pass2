@@ -1,0 +1,10 @@
+MACRO
+M &a,&b
+A 1,&a
+L 2,&b
+MEND
+START
+line 1
+M d1,d2
+line 2
+END
